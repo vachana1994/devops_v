@@ -1,0 +1,8 @@
+# ignore the target directory
+target/
+
+# ignore IntelliJ .iml files
+*.iml
+
+# ignore log files
+*.log
